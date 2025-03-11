@@ -1,0 +1,93 @@
+{
+  "edges": [
+    {
+      "fromNode": "2940f1a260b142b0",
+      "fromSide": "right",
+      "id": "379421cc335bbdff",
+      "toNode": "da9a59dea112bc8f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "57bfd6fa70875091",
+      "fromSide": "right",
+      "id": "1541bd037af455f1",
+      "toNode": "13f882df282fe1ca",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fe8227e509fde0ed",
+      "fromSide": "right",
+      "id": "2c6139cefbf82843",
+      "toNode": "e6fa62a2601c2adb",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 210,
+      "id": "2940f1a260b142b0",
+      "styleAttributes": {
+      },
+      "text": "_**Actor:**_\nActorii sunt utilizatorii sau alte sisteme ce interactioneaza cu sistemul/produsul/serviciul nostru. Ei nu fac parte din sistem si definesc multimi de roluri in comunicarea cu acesta",
+      "type": "text",
+      "width": 305,
+      "x": -360,
+      "y": -240
+    },
+    {
+      "file": "Images/uml images/Pasted image 20250311223334.png",
+      "height": 180,
+      "id": "da9a59dea112bc8f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 149,
+      "x": 200,
+      "y": -225
+    },
+    {
+      "file": "Images/uml images/Pasted image 20250311223507.png",
+      "height": 183,
+      "id": "13f882df282fe1ca",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 258,
+      "x": 142,
+      "y": 49
+    },
+    {
+      "height": 140,
+      "id": "57bfd6fa70875091",
+      "styleAttributes": {
+      },
+      "text": "_**Use case:**_\nUse case reprezinta actiunile actorilor asupra sistemul/produsul/serviciul ",
+      "type": "text",
+      "width": 305,
+      "x": -360,
+      "y": 71
+    },
+    {
+      "height": 120,
+      "id": "fe8227e509fde0ed",
+      "styleAttributes": {
+      },
+      "text": "_**Asociere:**_\nEste relatia propriu zisa dintre actor si use case. ",
+      "type": "text",
+      "width": 260,
+      "x": -360,
+      "y": 280
+    },
+    {
+      "file": "Images/uml images/Pasted image 20250311223607.png",
+      "height": 76,
+      "id": "e6fa62a2601c2adb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 40,
+      "y": 302
+    }
+  ]
+}

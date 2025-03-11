@@ -1,4 +1,7 @@
 [
   "highlightr-plugin",
-  "colored-text"
+  "colored-text",
+  "obsidian-image-toolkit",
+  "advanced-canvas",
+  "hk-code-block"
 ]

@@ -13,11 +13,26 @@ _Modificarea de acces_ sunt elementele de baza a unei clase ei au ca scop contro
 
 _**Private**_ - Atributele si metodele marcate cu acest modificator pot fi accesate doar din interiorul clasei in care sunt definite. Acestea nu sunt accesibile din exteriorul clasei, ceea ce protejeaza datele de modificari necontrolate
 _**Public**_ - Membrii declarati public sunt accesibili din orice parte a programului. Acesta este cel mai des folosit in situatii cand avem metode sau atribute ce au ca scop principal comunicarea cu utilizatorul cum ar fi citirea datelor de intrare. 
-_**Protected**_ - Membrii protejati sunt accesibili doar in cadrul clasei si al claselor derivate (prin [mostenire](Mostenire.md)). Acest modificator este util in cazul cand avem _mostenire_ intre clase si este necesar sa avem niste atribute intre ele dar ascunse in afara acestora. 
+_**Protected**_ - Membrii protejati sunt accesibili doar in cadrul clasei si al claselor derivate (prin [mostenire](Mostenirea.md)). Acest modificator este util in cazul cand avem _mostenire_ intre clase si este necesar sa avem niste atribute intre ele dar ascunse in afara acestora. 
 
 _Modificatorii de acces_ asigura implementarea [incapsularii](Incapsularea.md) cea ce ne garanteaza ca datele interne ale unui obiect nu pot fi modificate sau accesate direct fara controlul clasei. 
 
 ![[Pasted image 20250311211733.png]]
 
 ---
+Un exemplu de clasa: 
+- _Clasa Bicicleta:_ 
+	- _atribute_
+		- tip cadru 
+		- dimensiunea rotii
+		- numar de viteze
+	- _metode_ 
+		- accelereaza 
+		- franzeaza
+
+Exemplu de cod: 
+
+![[Pasted image 20250311221017.png]]
+
+--- 
 

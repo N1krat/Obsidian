@@ -1,18 +1,6 @@
 oop: 
-- oop 
-- clasele
-- obiectele 
-- destructorii 
-- constructorii 
-- cei 4 principii de baza in OOP: 
 	- incapsularea 
-	- polimorfismul 
-	- mostenirea
-	- abstractizarea
-
-
-
-UML 
+	- modularizarea
 
 web: 
 - web dev
