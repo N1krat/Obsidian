@@ -3,5 +3,7 @@
   "colored-text",
   "obsidian-image-toolkit",
   "advanced-canvas",
-  "hk-code-block"
+  "hk-code-block",
+  "obsidian-git",
+  "terminal"
 ]
