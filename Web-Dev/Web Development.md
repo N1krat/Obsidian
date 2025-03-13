@@ -1,5 +1,5 @@
 `Definition:`
-_**Web development**_ is the work involved in the creation of a _website_. _Web development_ can range from the developing of a simple [static page](Static%20page.md) to complex [web applications](Web%20applictions.md), electronic businesses and social network services. 
+_**Web development**_ is the work involved in the creation of a _website_. _Web development_ can range from the developing of a simple [static page](Static%20page.md) to complex [web applications](Web%20applications.md), electronic businesses and social network services. 
 
 A list of the taks to which WebDev commonly reffers: 
 1. Web design 
