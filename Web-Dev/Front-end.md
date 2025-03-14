@@ -27,8 +27,8 @@ A _framework_ is a high-level solution for the reuse of some pieces of software,
 
 Frameworks and libraries are tools that extend the development process. These tools enhance developer productivity and contribute to the easyer maintaince of large-scale applications. Some popular front-end frameworks are: 
 - [React](React.md) - a JS library for building user interfaces, maintained by Meta ( Facebook ). It allows developers to create reusable UI components. 
-- [Angular](Angular.md) - a [TypeScript](TypeScript.md) based front-end framework developed and maintained by Google. It provides a solution for building dynamic [single-page applications](Single%20page%20applications.md). 
-- [Vue.js](VueJs.md) - a progressive [JavaScript](JavaScript.md) framework that is easy to learn yet powerful, making it easy to integrate with other libraries or other projects. 
+- [Angular](Angular.md) - a _TypeScript_ based front-end framework developed and maintained by Google. It provides a solution for building dynamic [single-page applications](Single%20page%20applications.md). 
+- [Vue.js](VueJs.md) - a progressive _JavaScript_ framework that is easy to learn yet powerful, making it easy to integrate with other libraries or other projects. 
 
 --- 
 #### State management 
