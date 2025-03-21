@@ -14,6 +14,7 @@ _Encapsularea are 2 proprietati importante:_
 _**Exemplu de cod:**_ 
 ![[Pasted image 20250312081439.png]]
 
+--- 
 
 
 

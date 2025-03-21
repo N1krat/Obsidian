@@ -41,14 +41,3 @@ class SubClass: visibility SuperClass {
 - Colonoana ( _:_ ) indica ca subclasa mosteneste superclasa. Vizibilitatea este optionala dar ea poate fi _private_ sau _public_. Valoarea default este _private_. Vizibilitatea specifica ce proprietati a clasei de baza subclasa va mosteni cele private sau publice. 
 
 --- 
-`Virtual methods and Overriding` 
-Daca o metoda din superclasa este una _virtuala_ atunci toate invocatiile metodei din superclasa vor fi dinamice. 
-
-Multe limbaje de programare orientate pe OOP ne permit unei clase sau unui obiect sa modifice implementarea unui aspect (deobicei a unor actiuni) ce este mostenit. Acest proces se cheama _**overriding**_. 
-![[Pasted image 20250311235453.png]]
-
-Overrinding-ul ne permite sa facem reuse la codul care poate sa se repete de mai multe ori la noi in program. 
-![[Pasted image 20250311235526.png]]
-
---- 
-
