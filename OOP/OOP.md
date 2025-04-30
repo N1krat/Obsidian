@@ -17,6 +17,7 @@ De asemenea in OOP exista _4 principii de baza_:
 - [incapsularea](Incapsularea.md)
 - [modularizarea](Modularizare.md)
 - [ierarhizare](Ierarhizare.md)
+- [polimorfism](Polimorfism.md)
 
 --- 
 _Exemplu de cod: _
@@ -24,4 +25,5 @@ _Exemplu de cod: _
 ![[Pasted image 20250311211817.png]]
 
 ---
+
 

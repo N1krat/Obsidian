@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b14736624fc9073a",
+            "id": "2ec3b7892761839c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "OOP"
             }
-          },
-          {
-            "id": "fd577218486e424f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Polimorfism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polimorfism"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,6 +172,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "62a5ec538e57ca6d",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
         "currentTab": 5
@@ -203,37 +198,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fd577218486e424f",
+  "active": "1a1396c04a40745e",
   "lastOpenFiles": [
-    "Images/oop_images/Pasted image 20250321092021.png",
-    "OOP/Incapsularea.md",
-    "OOP/Polimorfism.md",
-    "OOP/Modularizare.md",
     "OOP/OOP.md",
-    "OOP/Obiecte.md",
+    "Untitled.md",
     "OOP/Mostenirea.md",
-    "Web-Dev/DOM.md",
-    "Web-Dev/Dynamic web pages.md",
-    "Static20page.md",
-    "Web-Dev/Web applications.md",
-    "Web-Dev/Vuex.md",
-    "Web-Dev/VueJs.md",
-    "Web-Dev/Single page applications.md",
-    "Web-Dev/Static page.md",
-    "Web-Dev/Front-end.md",
-    "Web-Dev/Angular.md",
-    "Web-Dev/TypeScript.md",
-    "Web-Dev/Web Development.md",
-    "Web-Dev/Redux.md",
-    "Web-Dev/React.md",
+    "OOP/Modularizare.md",
+    "OOP/Incapsularea.md",
+    "OOP/Obiecte.md",
+    "OOP/Polimorfism.md",
+    "OOP/Stacks.md",
+    "OOP/Trees.md",
+    "OOP/Structuri dinamice de date.md",
+    "OOP/Destructori.md",
+    "OOP/Ierarhizare.md",
+    "UML/UML.md",
     "Web-Dev/Metadata.md",
+    "Web-Dev/Front-end.md",
     "Web-Dev/HTTP.md",
-    "Web-Dev/API.md",
-    "Web-Dev/Back-end.md",
+    "Web-Dev/Single page applications.md",
+    "Web-Dev/React.md",
+    "Web-Dev/Dynamic web pages.md",
+    "Web-Dev/Angular.md",
     "Web-Dev/Database.md",
+    "Web-Dev/Back-end.md",
+    "Web-Dev/API.md",
+    "Web-Dev/DOM.md",
+    "Web-Dev/Redux.md",
+    "Web-Dev/Static page.md",
+    "Images/oop_images/Pasted image 20250321092021.png",
     "Images/oop_images/Pasted image 20250312081549.png",
     "Images/oop_images/Pasted image 20250312081439.png",
     "Images/oop_images/Pasted image 20250311235453.png",
@@ -243,7 +240,6 @@
     "Images/oop_images/Pasted image 20250311233309.jpg",
     "Images/uml images/Pasted image 20250311231320.png",
     "Images/uml images/Pasted image 20250311232200.png",
-    "Images/uml images/Pasted image 20250311231807.png",
     "Canvas/Diagrama de activitate.canvas",
     "Canvas/Diagrama cazurilor de utilizare.canvas",
     "Images/uml images",
