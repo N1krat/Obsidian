@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mermaid test.md",
+                "file": "To-Do Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mermaid test"
+              "title": "To-Do Project Ideas"
             }
           }
         ]
@@ -200,10 +200,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "80ce007eb78be773",
+  "active": "53164858ce61745f",
   "lastOpenFiles": [
-    "OOP/Mostenirea.md",
     "Mermaid test.md",
+    "To-Do Project Ideas.md",
+    "OOP/Mostenirea.md",
     "OOP/OOP.md",
     "OOP/Modularizare.md",
     "OOP/Incapsularea.md",
@@ -227,7 +228,6 @@
     "Web-Dev/API.md",
     "Web-Dev/DOM.md",
     "Web-Dev/Redux.md",
-    "Web-Dev/Static page.md",
     "Images/oop_images/Pasted image 20250321092021.png",
     "Images/oop_images/Pasted image 20250312081549.png",
     "Images/oop_images/Pasted image 20250312081439.png",
