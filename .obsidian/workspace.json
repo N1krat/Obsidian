@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do Project Ideas.md",
-                "mode": "source",
+                "file": "OOP/Mostenirea.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do Project Ideas"
+              "title": "Mostenirea"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "baaeaeecccf83810",
+            "id": "e8a434f24b5f7373",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,19 +202,22 @@
   },
   "active": "53164858ce61745f",
   "lastOpenFiles": [
-    "Mermaid test.md",
-    "To-Do Project Ideas.md",
-    "OOP/Mostenirea.md",
-    "OOP/OOP.md",
     "OOP/Modularizare.md",
     "OOP/Incapsularea.md",
+    "OOP/Ierarhizare.md",
+    "OOP/Destructori.md",
+    "OOP/Clase.md",
+    "OOP/Constructor.md",
+    "OOP/Data.md",
+    "OOP/Mostenirea.md",
     "OOP/Obiecte.md",
+    "OOP/OOP.md",
     "OOP/Polimorfism.md",
     "OOP/Stacks.md",
-    "OOP/Trees.md",
     "OOP/Structuri dinamice de date.md",
-    "OOP/Destructori.md",
-    "OOP/Ierarhizare.md",
+    "OOP/Trees.md",
+    "To-Do Project Ideas.md",
+    "Mermaid test.md",
     "UML/UML.md",
     "Web-Dev/Metadata.md",
     "Web-Dev/Front-end.md",
@@ -225,9 +228,6 @@
     "Web-Dev/Angular.md",
     "Web-Dev/Database.md",
     "Web-Dev/Back-end.md",
-    "Web-Dev/API.md",
-    "Web-Dev/DOM.md",
-    "Web-Dev/Redux.md",
     "Images/oop_images/Pasted image 20250321092021.png",
     "Images/oop_images/Pasted image 20250312081549.png",
     "Images/oop_images/Pasted image 20250312081439.png",
