@@ -1,7 +1,7 @@
 `Definitie:` 
 _**Incapsularea**_ se refera la limitarea accesului fata de unele date de exemplu, accesul componentelor unui obiect. In special encapsularea previne ca codul extern sa modifice lucrul unui obiect.
 
-Encapsularea incurajeaza ca programatorii sa tot codul ce este legat de un set de date sa fie in aceiasi clasa, cea ce ajuta la crearea unui cod cu mult mai comprehensive.
+Encapsularea incurajeaza ca programatorii sa scrie tot codul ce este legat de un set de date sa fie in aceiasi clasa, cea ce ajuta la crearea unui cod cu mult mai comprehensive.
 
 ---
 _Incapsularea are 2 proprietati importante:_

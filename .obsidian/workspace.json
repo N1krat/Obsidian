@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/Mostenirea.md",
+                "file": "OOP/OOP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mostenirea"
+              "title": "OOP"
             }
           }
         ]
@@ -203,18 +203,18 @@
   "active": "53164858ce61745f",
   "lastOpenFiles": [
     "OOP/Modularizare.md",
-    "OOP/Incapsularea.md",
-    "OOP/Ierarhizare.md",
-    "OOP/Destructori.md",
+    "OOP/OOP.md",
+    "OOP/Polimorfism.md",
+    "OOP/Obiecte.md",
     "OOP/Clase.md",
     "OOP/Constructor.md",
     "OOP/Data.md",
+    "OOP/Ierarhizare.md",
     "OOP/Mostenirea.md",
-    "OOP/Obiecte.md",
-    "OOP/OOP.md",
-    "OOP/Polimorfism.md",
-    "OOP/Stacks.md",
     "OOP/Structuri dinamice de date.md",
+    "OOP/Incapsularea.md",
+    "OOP/Destructori.md",
+    "OOP/Stacks.md",
     "OOP/Trees.md",
     "To-Do Project Ideas.md",
     "Mermaid test.md",
