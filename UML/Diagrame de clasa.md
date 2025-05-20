@@ -3,3 +3,5 @@ Aceste diagrame descriu atat proiectarea logica cat si cea fizica a unui sistem 
 
 ---
 ![[Pasted image 20250311232200.png]]
+
+![[Pasted image 20250520213518.png]]

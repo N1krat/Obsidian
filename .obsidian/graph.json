@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:OOP  ",
@@ -15,30 +15,37 @@
       }
     },
     {
-      "query": "path:UML  ",
+      "query": "path:Web-Dev  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:Web-Dev  ",
+      "query": "path:UML  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": 0,
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.175675675675676,
-  "repelStrength": 5.25987525987526,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10.3352886693424,
   "linkStrength": 1,
-  "linkDistance": 159,
-  "scale": 0.6845635668286384,
-  "close": true
+  "linkDistance": 137,
+  "scale": 0.6545776571974485,
+  "close": false
 }
