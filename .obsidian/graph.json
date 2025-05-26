@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:OOP  ",
@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Practica  ",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10.3352886693424,
   "linkStrength": 1,
   "linkDistance": 137,
-  "scale": 0.6545776571974485,
+  "scale": 0.5866099833003788,
   "close": false
 }
