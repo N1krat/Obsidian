@@ -3,4 +3,4 @@
 3. Create a portfolio page that i will deploy on github
 4. Try to practice more on the leetcode 
 5. Try to make more practice SPA's using Vue (something simple but practicle )
-6. 
+6. MicroJob Platform for local use

@@ -6,7 +6,7 @@ Se poate de facut in echipa max 2 persoane: backend si frontend.
 
 Cerinte: 
 - logare/inregistrare (cu parola securizata, si cu email unic pe user), 2 tipuri de utilizatori admin si user 
-- Functionalitati CRUD (create, rig, edit, delete)
+- Functionalitati CRUD (create, rig, update, delete)
 - dark mode si light mode
 - **punct adaugator export date intrun pdf sau csv** 
 -  Sa fie validari: adresa de email, parola
@@ -19,3 +19,5 @@ Cerinte:
 - La Raport tehno-redactarea este foarte importanta deoarece va fi jostka 
 
 Avem 3 note: Prezentare, Raport si inca una
+
+- De avut pe github proiectul nostru in care vom avea structura proiectului. 

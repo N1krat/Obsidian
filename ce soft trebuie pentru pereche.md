@@ -1,0 +1,1 @@
+ilustrator, photoshop si adobe in design 
