@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a9ae2eeeb3b7ee",
+        "id": "24f9d182eaf5a213",
         "type": "tabs",
         "children": [
           {
-            "id": "2cee2d9cb25ce3fd",
+            "id": "f0c7ff8f895cb05e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "e8a434f24b5f7373",
+            "id": "f432d53937926b19",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -197,8 +197,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2cee2d9cb25ce3fd",
+  "active": "f0c7ff8f895cb05e",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Ink/Writing/2025.10.2 - 16.01pm.writing",
+    "Ink/Writing",
+    "Ink",
     "Untitled.md",
     "OOP/OOP.md",
     "ce soft trebuie pentru pereche.md",
@@ -226,8 +230,6 @@
     "OOP/Polimorfism.md",
     "OOP/Structuri dinamice de date.md",
     "OOP/Trees.md",
-    "Mermaid test.md",
-    "Web-Dev/Metadata.md",
     "Images/oop_images/Pasted image 20250321092021.png",
     "Images/oop_images/Pasted image 20250312081549.png",
     "Images/oop_images/Pasted image 20250312081439.png",
@@ -243,8 +245,6 @@
     "Images/web images",
     "Images/oop_images",
     "Canvas",
-    "Images",
-    "Web-Dev",
-    "OOP"
+    "Images"
   ]
 }
