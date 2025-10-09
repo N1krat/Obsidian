@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-Dev/Angular.md",
+                "file": "Colegiu/Matematica/10.9.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angular"
+              "title": "10.9.2025"
             }
           }
         ],
@@ -214,7 +214,12 @@
   },
   "active": "3e873283b1311f45",
   "lastOpenFiles": [
-    "Colegiu/Matematica.md",
+    "Ink/Writing/2025.10.9 - 9.35am.writing",
+    "Colegiu/Matematica/random integrale.md",
+    "Colegiu/Matematica/10.9.2025.md",
+    "Untitled.md",
+    "Colegiu/Matematica",
+    "Web-Dev/Angular.md",
     "Ink/Writing/2025.10.7 - 13.58pm.writing",
     "Web-Dev/Bootstrap.md",
     "Web-Dev/Front-end.md",
@@ -228,7 +233,6 @@
     "Web-Dev/VueJs.md",
     "Web-Dev/Vuex.md",
     "Web-Dev/Web Development.md",
-    "Web-Dev/Angular.md",
     "Canvas/Diagrama cazurilor de utilizare.canvas",
     "OOP/Obiecte.md",
     "Colegiu",
@@ -245,8 +249,6 @@
     "UML/UML.md",
     "OOP/Mostenirea.md",
     "Practica",
-    "OOP/Clase.md",
-    "OOP/Modularizare.md",
     "Images/Pasted image 20250520213518.png",
     "Images/oop_images/Pasted image 20250321092021.png",
     "Images/oop_images/Pasted image 20250312081549.png",
@@ -259,7 +261,6 @@
     "Images/uml images/Pasted image 20250311231320.png",
     "Images/uml images",
     "UML",
-    "Images/web images",
-    "Images/oop_images"
+    "Images/web images"
   ]
 }
