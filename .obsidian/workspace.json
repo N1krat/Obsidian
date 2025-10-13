@@ -11,28 +11,17 @@
             "id": "4fa29f5e9c14dbf4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "3e873283b1311f45",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Colegiu/Matematica/10.9.2025.md",
+                "file": "To-Do Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.9.2025"
+              "title": "To-Do Project Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +157,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -188,8 +177,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -201,7 +190,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,11 +200,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3e873283b1311f45",
+  "active": "4fa29f5e9c14dbf4",
   "lastOpenFiles": [
-    "Ink/Writing/2025.10.9 - 9.35am.writing",
+    "Untitled 1.md",
+    "To-Do Project Ideas.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Colegiu/Matematica/10.9.25.md",
     "Colegiu/Matematica/random integrale.md",
-    "Colegiu/Matematica/10.9.2025.md",
+    "Ink/Writing/2025.10.9 - 9.35am.writing",
     "Untitled.md",
     "Colegiu/Matematica",
     "Web-Dev/Angular.md",
@@ -225,8 +217,6 @@
     "Web-Dev/Front-end.md",
     "Web-Dev/DOM.md",
     "Web-Dev/Database.md",
-    "To-Do Project Ideas.md",
-    "Untitled 1.md",
     "ip teamspeak.md",
     "ce soft trebuie pentru pereche.md",
     "Summer Hackaton.md",
@@ -258,9 +248,6 @@
     "Images/oop_images/Pasted image 20250311233612.jpg",
     "Images/oop_images/Pasted image 20250311234240.jpg",
     "Images/oop_images/Pasted image 20250311233309.jpg",
-    "Images/uml images/Pasted image 20250311231320.png",
-    "Images/uml images",
-    "UML",
-    "Images/web images"
+    "Images/uml images/Pasted image 20250311231320.png"
   ]
 }

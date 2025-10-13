@@ -4,3 +4,4 @@
 4. Try to practice more on the leetcode 
 5. Try to make more practice SPA's using Vue (something simple but practicle )
 6. MicroJob Platform for local use
+
