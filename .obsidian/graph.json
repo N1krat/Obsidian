@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:CyberSecurity  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:English  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +67,6 @@
   "repelStrength": 10.3352886693424,
   "linkStrength": 1,
   "linkDistance": 137,
-  "scale": 0.5545410817045835,
+  "scale": 0.5201850185482668,
   "close": true
 }
