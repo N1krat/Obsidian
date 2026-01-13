@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "405227b152523a6b",
+        "id": "6705921932e729be",
         "type": "tabs",
         "children": [
           {
-            "id": "bbbaa5b5e41c6ee6",
+            "id": "4c1de3808f795978",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,9 +201,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bbbaa5b5e41c6ee6",
+  "active": "4c1de3808f795978",
   "lastOpenFiles": [
+    "Web-Dev/JavaScript (Client-Side).md",
+    "Web-Dev/DOM.md",
+    "Images/Acrobat_XjvoDY3pa8.png",
+    "Web-Dev/Front-end.md",
+    "Web-Dev/Go.md",
+    "Web-Dev/Web Development.md",
     "CyberSecurity/CyberSecurity.md",
+    "Web-Dev/TypeScript.md",
+    "().md",
     "English/12.1.2026.md",
     "CyberSecurity",
     "Untitled.md",
@@ -229,18 +237,10 @@
     "Colegiu/Matematica",
     "Web-Dev/Angular.md",
     "Web-Dev/Bootstrap.md",
-    "Web-Dev/Front-end.md",
-    "Web-Dev/DOM.md",
     "Web-Dev/Database.md",
     "ce soft trebuie pentru pereche.md",
-    "Web-Dev/VueJs.md",
-    "Web-Dev/Vuex.md",
-    "Web-Dev/Web Development.md",
-    "OOP/Obiecte.md",
     "Colegiu",
-    "OOP/OOP.md",
     "Ink/Writing",
-    "Practica/Ce vom face la practica anul2.md",
     "Canvas/Diagrama de activitate.canvas",
     "Images/Pasted image 20250520213518.png",
     "Images/oop_images/Pasted image 20250321092021.png",
@@ -249,7 +249,6 @@
     "Images/oop_images/Pasted image 20250311235453.png",
     "Images/oop_images/Pasted image 20250311235526.png",
     "Images/oop_images/Pasted image 20250311233612.jpg",
-    "Images/oop_images/Pasted image 20250311234240.jpg",
-    "Images/oop_images/Pasted image 20250311233309.jpg"
+    "Images/oop_images/Pasted image 20250311234240.jpg"
   ]
 }
