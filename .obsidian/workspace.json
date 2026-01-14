@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6705921932e729be",
+        "id": "13e2d11be471616d",
         "type": "tabs",
         "children": [
           {
-            "id": "4c1de3808f795978",
+            "id": "5d28044c06a6a2a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "English/14.1.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.1.2026"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b7b6b468c23b000",
@@ -138,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP/Clase.md",
+                "file": "English/14.1.2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clase"
+              "title": "Outline of 14.1.2026"
             }
           },
           {
@@ -173,8 +178,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -197,20 +202,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a1396c04a40745e",
+  "active": "80ce007eb78be773",
   "lastOpenFiles": [
-    "CyberSecurity/CyberSecurity.md",
+    "English/14.1.2026.md",
+    "English/12.1.2026.md",
     "Web-Dev/JavaScript (Client-Side).md",
+    "Web-Dev/TypeScript.md",
+    "ce soft trebuie pentru pereche.md",
+    "Colegiu/Matematica/10.9.25.md",
+    "CyberSecurity/CyberSecurity.md",
     "Web-Dev/DOM.md",
     "Images/Acrobat_XjvoDY3pa8.png",
     "Web-Dev/Front-end.md",
     "Web-Dev/Go.md",
     "Web-Dev/Web Development.md",
-    "Web-Dev/TypeScript.md",
     "().md",
-    "English/12.1.2026.md",
     "CyberSecurity",
-    "Untitled.md",
     "English",
     "Summer Hackaton.md",
     "laba 7.md",
@@ -221,7 +228,6 @@
     "UML/Diagrame de clasa.md",
     "UML/Diagrame de activitati.md",
     "To-Do Project Ideas.md",
-    "Colegiu/Matematica/10.9.25.md",
     "Democracy Tech Hackaton.md",
     "Colegiu/Matematica/random integrale.md",
     "ip teamspeak.md",
@@ -234,7 +240,6 @@
     "Web-Dev/Angular.md",
     "Web-Dev/Bootstrap.md",
     "Web-Dev/Database.md",
-    "ce soft trebuie pentru pereche.md",
     "Colegiu",
     "Ink/Writing",
     "Canvas/Diagrama de activitate.canvas",
