@@ -2,5 +2,8 @@
   "spellcheck": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "vimMode": false
 }

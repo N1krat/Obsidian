@@ -19,3 +19,6 @@ Various parties or people are vulnerable to cyber attacks, howerver all of the a
 _**SMBs (Small and Medium Businesses)**_ are most affected by <span style="color:rgb(255, 0, 0)">malware, ransomware, phishing, Denial-Of-Service (DoS), Man-in-the-middle</span>.  
 
 But most of the people are most likely to be attacked by untargeted attacks. 
+
+
+
