@@ -18,7 +18,6 @@
 
 
 
-### Tip 5 - 
 
 ---
 
@@ -43,6 +42,10 @@ where and when - India
 what - helped the people
 how  - from her grandma
 
+
+---
+
+![[Pasted image 20260223185350.png]]
 
 ---
 

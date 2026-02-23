@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "20.2.2026"
             }
+          },
+          {
+            "id": "f19bfe24c8eaab80",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -217,14 +227,15 @@
   },
   "active": "80ce007eb78be773",
   "lastOpenFiles": [
-    "Pasted image 20260223182929.png",
-    "Pasted image 20260223182642.png",
-    "Pasted image 20260223182530.png",
-    "Pasted image 20260223182335.png",
+    "Images/english/Pasted image 20260223182335.png",
+    "English/60 MIN SPEAKING.md",
     "English/20.2.2026.md",
+    "Images/english/Pasted image 20260223185350.png",
+    "Images/english/Pasted image 20260223182929.png",
+    "Images/english/Pasted image 20260223182642.png",
+    "Images/english/Pasted image 20260223182530.png",
     "Images/english/Pasted image 20260218183213.png",
     "Images/english/Pasted image 20260223181023.png",
-    "English/60 MIN SPEAKING.md",
     "Images/english/Pasted image 20260223180842.png",
     "Images/english/Pasted image 20260223180626.png",
     "English/Listening exercises.md",
@@ -234,8 +245,6 @@
     "English/28.1.2026.md",
     "Lyrics",
     "Images/english/Pasted image 20260220185938.png",
-    "Images/english/Pasted image 20260220185604.png",
-    "Images/english/Pasted image 20260220185514.png",
     "English/16.2.2026.md",
     "ip teamspeak.md",
     "English/13.2.2026.md",
