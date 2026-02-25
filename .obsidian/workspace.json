@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b7b6b468c23b000",
@@ -201,8 +202,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "80ce007eb78be773",
+  "active": "36b5ad6b096c51fb",
   "lastOpenFiles": [
+    "{01978708-5671-4F57-A04C-D89B8252CFDE}.png",
     "English/23.2.2026.md",
     "English/25.2.2026.md",
     "English/20.2.2026.md",
@@ -240,7 +242,6 @@
     "CyberSecurity/CyberSecurity.md",
     "Listening.md",
     "UML/Diagrame de secventa.md",
-    "UML/UML.md",
     "CyberSecurity",
     "English",
     "Canvas/Diagrama cazurilor de utilizare.canvas",
